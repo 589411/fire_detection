@@ -1,0 +1,6 @@
+names:
+- fire
+nc: 1
+path: ../data
+train: train/images
+val: val/images

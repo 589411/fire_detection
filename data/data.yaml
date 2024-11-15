@@ -1,0 +1,5 @@
+path: E:\fire_detection\data  # 數據集根目錄
+train: train/images  # 訓練集圖片相對路徑
+val: val/images      # 驗證集圖片相對路徑
+nc: 1                # 類別數量
+names: ['fire']      # 類別名稱
