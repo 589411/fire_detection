@@ -1,0 +1,15 @@
+models:
+  fire:
+    path: "weights/fire_best.pt"
+    conf_threshold: 0.4
+  helmet:
+    path: "weights/helmet_best.pt"
+    conf_threshold: 0.3
+
+display:
+  show_fps: true
+  frame_skip: 2
+
+save:
+  save_video: true
+  save_detections: true 
